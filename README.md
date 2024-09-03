@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">Stud 42 lyon</h3>
 
-- 🌱 **Config en cours =)**
+- 🌱 **Config inc =)**
 
 - 📫 **lachariotte30@gmail.com**
 
