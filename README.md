@@ -5,7 +5,7 @@
 
 - 📫 **lachariotte30@gmail.com**
 
-- - LeetCode :
+-  LeetCode :
 https://leetcode.com/u/lyricall
 - CodinGame:
 https://www.codingame.com/profile/a6f595459899d5b746db8ee9dcd58f261407726
