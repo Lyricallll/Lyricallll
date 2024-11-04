@@ -5,11 +5,6 @@
 
 - 📫 **lachariotte30@gmail.com**
 
--  LeetCode :
-https://leetcode.com/u/lyricall
-- CodinGame:
-https://www.codingame.com/profile/a6f595459899d5b746db8ee9dcd58f261407726
-
 <div align="right">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyricallll&hide=html,css,tex,pascal&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
