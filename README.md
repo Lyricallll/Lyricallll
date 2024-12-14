@@ -5,10 +5,10 @@
 #include <string.h>
 
 struct Student {
-    char name[2];
-    char alias[1];
-    char school[1];
-    char completed_projects[5][20];
+    char name[42];
+    char alias[42];
+    char school[42];
+    char completed_projects[5][42];
 };
 
 void initializeStudent(struct Student *student) {
