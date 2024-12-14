@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">Stud 42 lyon</h3>
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center">Student 42 Lyon</h3>
 
 <div align="center">
 
