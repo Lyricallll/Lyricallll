@@ -40,6 +40,14 @@ int main(void) {
     return 0;
 }
 ```
-<div align="center">
+## 🔧 Technologies & Tools
+
+<div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyricallll&layout=compact)
+
+# Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-graille-594385329/)
+
+
