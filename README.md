@@ -44,7 +44,7 @@ int main(void) {
 
 <div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyricallll&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agraille&layout=compact)
 
 # Contact
 
